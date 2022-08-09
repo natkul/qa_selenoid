@@ -1,0 +1,4 @@
+URL = None
+TOKEN = None
+TIMEOUT_STEP = 0.5
+MAX_TIMEOUT = 10
